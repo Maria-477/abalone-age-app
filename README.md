@@ -2,8 +2,8 @@
 
 Predicts an abalone's age in years from its physical measurements (sex, length, diameter, height, whole / shucked / viscera / shell weight).
 
-- **Live Streamlit app:** {{LIVE_APP_URL}}
-- **GitHub repository:** {{GITHUB_REPO_URL}}
+- **Live Streamlit app:** https://abalone-age-app-k9npzrtjz5mgkwusisuajw.streamlit.app
+- **GitHub repository:** https://github.com/Maria-477/abalone-age-app
 
 ## How it works
 
