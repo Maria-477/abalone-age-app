@@ -1,0 +1,71 @@
+{
+  "best_algorithm": "Gradient Boosting",
+  "cv_mean_rmse": 2.161400423701365,
+  "cv_std_rmse": 0.15910876584424347,
+  "cv_results": {
+    "Linear Regression": {
+      "mean_rmse": 2.208723806797678,
+      "std_rmse": 0.17911229554310773
+    },
+    "K-Nearest Neighbors": {
+      "mean_rmse": 2.281929863176512,
+      "std_rmse": 0.1880912684393349
+    },
+    "Decision Tree": {
+      "mean_rmse": 2.9839836529074195,
+      "std_rmse": 0.25430455683297876
+    },
+    "Random Forest": {
+      "mean_rmse": 2.1713632566753116,
+      "std_rmse": 0.1375833598700679
+    },
+    "Gradient Boosting": {
+      "mean_rmse": 2.161400423701365,
+      "std_rmse": 0.15910876584424347
+    }
+  },
+  "n_samples": 4177,
+  "sklearn_version": "1.9.1",
+  "feature_ranges": {
+    "Length": [
+      0.075,
+      0.815,
+      0.545
+    ],
+    "Diameter": [
+      0.055,
+      0.65,
+      0.425
+    ],
+    "Height": [
+      0.0,
+      1.13,
+      0.14
+    ],
+    "Whole weight": [
+      0.002,
+      2.8255,
+      0.7995
+    ],
+    "Shucked weight": [
+      0.001,
+      1.488,
+      0.336
+    ],
+    "Viscera weight": [
+      0.0005,
+      0.76,
+      0.171
+    ],
+    "Shell weight": [
+      0.0015,
+      1.005,
+      0.234
+    ]
+  },
+  "sex_values": [
+    "F",
+    "I",
+    "M"
+  ]
+}
